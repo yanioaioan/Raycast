@@ -2,6 +2,8 @@
 #include <QMouseEvent>
 #include <ngl/Util.h>
 
+//http://antongerdelan.net/opengl/raycasting.html
+
 //----------------------------------------------------------------------------------------------------------------------
 void NGLScene::mouseMoveEvent( QMouseEvent* _event )
 {
